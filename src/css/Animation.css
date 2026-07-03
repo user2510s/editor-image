@@ -1,0 +1,4 @@
+.animation {
+  cursor: pointer;
+  transition: cubic-bezier(0.075, 0.1, 0.165, 1.7) 0.5s;
+}

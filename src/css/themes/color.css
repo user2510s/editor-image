@@ -1,0 +1,16 @@
+@theme {
+  --color-background: #1e100f;
+  --color-foreground: #f8dcdb;
+
+  --color-primary: #fdb786;
+  --color-primary-foreground: #423030;
+
+  --color-secondary: #663c2d;
+  --color-secondary-foreground: #f8dcdb;
+
+  --color-muted: #423030;
+  --color-muted-foreground: #ffdada;
+
+  --color-destructive: #92001c;
+  --color-destructive-foreground: #ffdada;
+}
