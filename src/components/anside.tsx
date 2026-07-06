@@ -2,6 +2,7 @@ import PRESETS, { type PresetKey } from "../constants/presets";
 import type DEFAULT_PARAMS from "../constants/defaultParams";
 import { RotateCcw } from "lucide-react";
 import CONTROL_GROUPS from "../constants/contolGrups";
+import Social from "./social";
 
 type Params = typeof DEFAULT_PARAMS;
 
@@ -111,6 +112,7 @@ export default function Anside({
           ))}
         </fieldset>
       ))}
+      <Social />
     </aside>
   );
 }
